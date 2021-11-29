@@ -1,4 +1,4 @@
-# TourX Web App
+# Honda CBR Web Page
 
 It is a single web page made with HTML5, CSS3 and Bootstrap
 
